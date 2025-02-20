@@ -1,1 +1,1 @@
-This PDF describes a novel method of generating the straight skeleton of s simple ( holes) 2D polygon. The method reduxes a polygon with reflex corners to a set a convex polygons, which are then earily skeletoned.
+This PDF describes a novel method of generating the straight skeleton of s simple ( holes) 2D polygon. The method reduces a polygon with reflex corners to a set a convex polygons, which are then earily skeletoned.
