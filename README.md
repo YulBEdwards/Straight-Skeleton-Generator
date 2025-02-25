@@ -1,1 +1,3 @@
-This PDF describes a novel method of generating the straight skeleton of s simple ( holes) 2D polygon. The method reduces a polygon with reflex corners to a set a convex polygons, which are then earily skeletoned.
+The PDF describes a novel method of generating the straight skeleton of s simple (no holes) 2D polygon. The method reduces a polygon with reflex corners to a set a convex polygons, for which skeletons are easily determined.
+
+The experimental python program determines the straight skeleton of the example polygon presented in de Berg et.al. "Computational Geometry," p. 54. The experimental program is incomplete and will almost certainly fail for data other than that included in the program. The program is meant to be a starting point for examination of this alternate method for determining straight skeletons.
